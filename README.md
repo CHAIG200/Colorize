@@ -1,3 +1,4 @@
+# Why this project.
 This project was used to be a proof of concept and also to answer the research question that i had selected for my honours project. This also allowedme to further my knowledge in the area of machine learning also.
 ```
 “What deep neural network model design is most effective for colorizing a greyscale image back into color automatically ”
