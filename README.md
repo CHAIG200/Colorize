@@ -24,6 +24,7 @@ For the second test i used an image of an african american male with this test i
 
 ## Third Test
 For the third test i used an image of a White male and a african american male with this test i aimed to test if the network could correctly colorize the correct skin tone of both people . In this test i received a **83.83% Accuracy** this was around what i was expecting as what i learned form the previous two tests that the background would lower the accuracy of the overall image.
+
 <img src="https://i.imgur.com/WpowJtO.png"></img>
 
 ## Overall
