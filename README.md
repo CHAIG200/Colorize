@@ -12,7 +12,7 @@ When it came to the accuracy of the model that i had generated it suprised me wi
 Training Time: 26 Hours - Due to CPU limitation
 ```
 ```
-Dataset Size: 13,000 Images - 6,000 for training and 6,000 for testing
+Dataset Size: 12,000 Images - 6,000 for training and 6,000 for testing
 ```
 ## First Test
 For the first test i used an image of a White male with this test i aimed to test if the network could correctly colorize the correct skin tone. In this test i received a **74.15% Accuracy** this was lower than expected but this was also due to the background not being colorized as the network was only trained on faces.
